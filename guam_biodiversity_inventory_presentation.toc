@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{What is a biodiversity inventory and why do we need one?}{3}{0}{1}
+\beamer@sectionintoc {2}{Status of Guam's biodiversity}{7}{0}{2}
+\beamer@sectionintoc {3}{Biodiversity data sources for Guam}{16}{0}{3}
+\beamer@sectionintoc {4}{Biodiversity data standards and tools}{19}{0}{4}
+\beamer@sectionintoc {5}{System design for the Guam Biodiversity Inventory}{29}{0}{5}

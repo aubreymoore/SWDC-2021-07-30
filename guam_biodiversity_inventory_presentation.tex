@@ -1,0 +1,273 @@
+%\documentclass[show notes]{beamer}
+%\documentclass[handout]{beamer}
+\documentclass[]{beamer}
+
+\usepackage{pgfpages}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathabx}
+\usepackage{mathpazo}
+\usepackage{eulervm}
+\usepackage{natbib}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+
+\usetheme{Madrid}
+\definecolor{uog}{rgb}{0,.5,0}
+\usecolortheme[named=uog]{structure}
+
+\mode<handout>{
+    \pgfpagesuselayout{4 on 1}[letterpaper] 
+    \setbeameroption{show notes}
+}
+
+
+% The following code uses \AtBeginSection to place a frame with the section title (\insertsectionhead) inside a beamercolorbox.
+% From https://tex.stackexchange.com/questions/178800/creating-sections-each-with-title-pages-in-beamers-slides
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+
+\title[Biological Invasion of Guam]{Biological Invasion of Guam}
+
+\author{Aubrey Moore}
+
+\institute[University of Guam]{Cooperative Extension Service\\College of Natural and Applied Sciences\\University of Guam}
+
+\titlegraphic{\includegraphics[width=2cm]{big_g2.pdf}}
+
+\date[]{WEDA/WAAESD Joint Summer Meeting, Guam\\July 11, 2018}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{Outline}
+    \tableofcontents
+\end{frame}
+
+\section{What is a biodiversity inventory and why do we need one?}
+
+\begin{frame}{What is a biodiversity inventory?}
+A biodiversity inventory is essentially a database containing a comprehensive check list of all taxa known occur within a defined area.
+\end{frame}
+
+\begin{frame}{Why do we need a biodiversity inventory?}
+  \begin{itemize}
+      \item To document rapid changes to Guam's ecosystems
+      \item To provide free, open access to information on Guam's flora and fauna
+      \item To share Guam biodiversity information with the global scientific community, policy makers and the public
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Why do we need a biodiversity inventory?}
+The Guam Biodiversity Inventory will facilitate automatic generation and updates to lists such as:
+\begin{itemize}
+\item A list of all invasive species on Guam with year first recorded
+\item A list of new species described from specimens collected on Guam 
+\item A list of observations for Guam's endangered species
+\item A list of Guam's native plants with associated herbivores and pathogens
+\item A list of crops grown on Guam and pests and pathogens which attack them
+\item A list of pests and associated biological control agents
+\item For any taxon, a literature reference list and links to images
+\item Taxonomic checklists and field guides with images
+\end{itemize}
+\end{frame}
+
+\section{Status of Guam's biodiversity}
+
+\begin{frame}{Status of Guam's biodiversity}
+    Guam's biodiversity is being threatened by a HIPPO!
+    \adjincludegraphics[height=0.85\textheight,center]{hippo.jpg}
+\end{frame}
+
+\begin{frame}{Status of Guam's biodiversity}
+    Guam's biodiversity is being threatened by a HIPPO!
+    \begin{description}[align=left]
+        \item [\texttt{H}] Habitat loss
+        \item [\texttt{I}] Invasive Species
+        \item [\texttt{P}] Pollution 
+        \item [\texttt{P}] Human Population
+        \item [\texttt{O}] Overharvesting
+    \end{description}
+\end{frame}
+
+\begin{frame}{Status of Guam's biodiversity}
+Guam's ecosystems are heavily impacted by invasive species
+\begin{itemize}
+\item Most inland bird species on Guam became extinct or extirpated in the wild after arrival of the brown treesnake
+\item 90\%  of Guam's endemic fadang plants, \textit{Cycas micronesica}, have been killed by Asian cycad scale and other invasive species
+\item Guam's coconut palms and other palms are rapidly being killed by coconut rhinoceros beetle
+\item Estimated arrival rate for invasive species never before recorded on Guam is 1 species per day
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Bird extinction by brown treesnake}
+	\adjincludegraphics[height=0.85\textheight,center]{bts.jpg}
+    \tiny{Courtesy of USGS}
+\end{frame}
+
+\begin{frame}{Massive mortality of \textit{Cycas micronesica} by invasive species}
+	\note[item]{Invasive species have killed about 90\% of Guam's endemic \textit{C. micronesica} plants and the population is not recovering}
+	\note[item]{\textit{C. micronesica} went from being the most numerous tree in Guam's forests in 2002 to being placed on the National Endangered Species list in 2016}
+	\adjincludegraphics[height=0.9\textheight,center]{CAS.png}
+\end{frame}
+
+\begin{frame}{Massive mortality of palm trees by coconut rhinoceros beetle}
+	\note[item]{ Many coconut palms and other palms are being killed by an uncontrolled outbreak of coconut rhinoceros beetle}
+	\note[item]{Coconut palm was the second most abundant tree in Guam's forests in 2002}
+	\begin{figure}
+		\begin{minipage}[t]{.48\textwidth}
+			\adjincludegraphics[valign=t,width=\textwidth]{rhino_beetle_head_r.jpg}
+            \tiny{Courtesy of US Forest Service}
+		\end{minipage}
+		\begin{minipage}[t]{0.48\textwidth}
+			\adjincludegraphics[valign=t,width=\textwidth]{dying_coconuts.jpg}
+		\end{minipage}
+	\end{figure} 
+\end{frame}
+
+
+\begin{frame}{Impediments in studying Guam's biodiversity}
+   
+    \begin{block}{Endemicity}
+        Many taxa on Guam are endemic and many (most?) of these have not been described.
+    \end{block}
+    
+    \begin{block}{Taxonomic impediment}
+    	It is hard to find taxonomists with specialized knowledge and skills to identify many groups of organisms on Guam (especially insects). 
+    \end{block}
+    
+\end{frame}{}
+
+
+\begin{frame}{Biodiversity survey examples}
+
+    \begin{block}{DoD Baseline Survey of Terrestrial Arthropods on Pagan 2010}
+     288 taxa; 228 new island records; 4 new (undescribed) species
+    \end{block}
+    
+    \begin{block}{DoD Baseline Survey of Terrestrial Arthropods on Guam 2012}
+    9,099 specimens collected; identified to taxonomic rank of Order only!!
+    \end{block}
+    
+    \begin{block}{Bark Beetle (Scolytinae) Trapping on Guam 2011}
+    A single trap at a single location was operated for 2 months.\\
+    7 species; 3 new island records
+    \end{block}
+    
+    \begin{block}{Survey of Drosophilidae on Guam 2012}
+    24 species; 14 new island records; 5 new (undescribed) species
+    \end{block}
+    
+\end{frame}
+
+
+\section{Biodiversity data sources for Guam}
+
+\begin{frame}{What data are stored in a biodiversity inventory?}
+\begin{itemize}
+\item \textbf{Taxonomic data:} A hierarchical checklist containing taxon names, synonyms, vernacular names, and references to publications containing taxon descriptions
+\item \textbf{Occurrence data:} Specimen data including date of collection, location, images, ecological associations, DNA sequences, morphometrics, etc.
+\item \textbf{Literature data:} References to information on taxa published in journals and reports
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Biological collections as a biodiversity data source}
+
+	\begin{figure}
+		\begin{minipage}[t]{.48\textheight}
+			\adjincludegraphics[valign=t,width=\textwidth]{bug.jpg}
+		\end{minipage}
+		\begin{minipage}[t]{0.25\textheight}
+			\adjincludegraphics[valign=t,width=\textwidth]{herbarium_sheet.jpg}
+		\end{minipage}
+	\end{figure} 
+
+% Table created using https://www.tablesgenerator.com/
+\begin{table}[]
+\centering
+%\caption{My caption}
+\label{my-label}
+\begin{tabular}{@{}ll@{}}
+\toprule
+Collection            & Digital Catalog                      \\ \midrule
+UOG Insect Collection & Biota; BioLink                       \\
+UOG Herbarium         & Borland Reflex; FileMaker; MS Access \\
+UoG Fish Collection   & Specify                              \\
+UoG Diatom Collection & Specify                              \\ \bottomrule
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+%\end{markdown}
+
+\section{Biodiversity data standards and tools}
+
+\begin{frame}{Biodiversity data standards and tools}
+	\adjincludegraphics[width=\textwidth,center]{diag2.pdf}    
+\end{frame}
+
+
+\begin{frame}{GBIF home}
+	\adjincludegraphics[width=\textwidth,center]{gbif_home.png}    
+\end{frame}
+
+
+\begin{frame}{GBIF occurrences map}
+	\adjincludegraphics[width=\textwidth,center]{gbif_guam_occurrences_map.png}   
+\end{frame}
+
+
+\begin{frame}{GBIF occurrences table}
+	\adjincludegraphics[width=\textwidth,center]{gbif_guam_occurrences_table.png}  
+\end{frame}
+
+
+\begin{frame}{GBIF occurrences datasets}
+	\adjincludegraphics[width=\textwidth,center]{gbif_guam_occurrences_datasets.png}    
+\end{frame}
+
+
+\begin{frame}{GBIF occurrences gallery}
+	\adjincludegraphics[width=\textwidth,center]{gbif_guam_occurrences_gallery.jpg}    
+\end{frame}
+
+
+\begin{frame}{GBIF simple search for "Guam"}
+	\adjincludegraphics[height=.8\textheight,center]{gbif_guam_everything.png}    
+\end{frame}
+
+
+\begin{frame}{GBIF Backbone Taxonomy}
+The GBIF Backbone Taxonomy:
+\begin{itemize}
+\item is the "Tree of Life" used by GBIF to deal with all taxon names within its database
+\item currently includes 2.7 million accepted taxon names and 2.3 million synonyms
+\item can be downloaded (as a Darwin Core Archive) for local use
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Darwin Core Archive}
+	%\adjincludegraphics[height=.8\textheight,center]{dwca.jpg}    
+	\adjincludegraphics[height=.9\textheight,center]{dwca.jpg}    
+\end{frame}
+
+
+\section{System design for the Guam Biodiversity Inventory}
+
+\begin{frame}{System design for the Guam Biodiversity Inventory}
+	\adjincludegraphics[height=.9\textheight,center]{diag1.pdf}     
+\end{frame}
+
+
+\end{document}

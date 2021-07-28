@@ -1,0 +1,106 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{aresForestsGuam2021}{video}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=a92c0e4693428ec696f1c97f575b8787}{%
+           family={Ares},
+           familyi={A\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a92c0e4693428ec696f1c97f575b8787}
+      \strng{fullhash}{a92c0e4693428ec696f1c97f575b8787}
+      \strng{bibnamehash}{a92c0e4693428ec696f1c97f575b8787}
+      \strng{editorbibnamehash}{a92c0e4693428ec696f1c97f575b8787}
+      \strng{editornamehash}{a92c0e4693428ec696f1c97f575b8787}
+      \strng{editorfullhash}{a92c0e4693428ec696f1c97f575b8787}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Forests of Guam was produced as a video submission to the 15th World Forestry Conference that was slated to be held in Seoul, Korea, May 2021. The conference is still on hold due to the COVID-19 pandemic. Dr. Adrian Ares, associate director of the Western Pacific Topical Research Center (WPTRC) at UOG, who spearheaded this effort, had this to say about this locally produced effort filmed by Tim Rock and narrated by Bruce Lloyd, “We strongly feel this video is representative of the island’s beauty, immense adversities, and the dedicated individuals working to overcome these difficulties.” For more information please visit www.uog.edu/wptrc}
+      \field{editortype}{director}
+      \field{title}{Forests of {{Guam}} 2021. {{Western Pacific Tropical Research Center}}, {{University}} of {{Guam}}}
+      \field{urlday}{26}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=27D-ovSzLBk
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=27D-ovSzLBk
+      \endverb
+      \keyw{SWCD2021}
+    \endentry
+    \entry{moore_guam_2017}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01c4ab783bec4fb0e4fd912fc480dc75}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Aubrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{fullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{bibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorbibnamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authornamehash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \strng{authorfullhash}{01c4ab783bec4fb0e4fd912fc480dc75}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Contribute to Guam-Forestry-Workshop-Resources development by creating an account on GitHub.}
+      \field{title}{Guam {{Forestry Workshop Resources}}}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /home/aubrey/Zotero/storage/SNDBNGQI/Guam-Forestry-Workshop-Resources.html
+      \endverb
+      \verb{urlraw}
+      \verb https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources
+      \endverb
+      \verb{url}
+      \verb https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources
+      \endverb
+      \keyw{online2017,SWCD2021}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
