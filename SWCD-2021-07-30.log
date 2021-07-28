@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.13)  27 JUL 2021 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.13)  29 JUL 2021 07:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -753,53 +753,28 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count326
 \@thisrulewidth=\dimen307
 )
-(/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
-Package: svg 2020/01/13 v2.02e (include SVG pictures)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
-
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
-Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen308
+\ar@mcellbox=\box76
+\extrarowheight=\dimen309
+\NC@list=\toks47
+\extratabsurround=\skip66
+\backup@length=\skip67
+\ar@cellbox=\box77
 )
-(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)
-\svg@box=\box76
-\c@svg@param@lastpage=\count327
-\c@svg@param@currpage=\count328
-
-(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
-Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
-
-(/usr/share/texlive/texmf-dist/tex/generic/catchfile/catchfile.sty
-Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-runsystem(uname -s > "SWCD-2021-07-30.w18")...executed.
-
-
-(./SWCD-2021-07-30.w18)
-runsystem(rm -- "SWCD-2021-07-30.w18")...executed.
-
-))
-(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
-Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
-
+\everycr=\toks48
+\minrowclearance=\skip68
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count329
+\lrq@indent=\count327
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -807,61 +782,61 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count330
-\c@listtotal=\count331
-\c@listcount=\count332
-\c@liststart=\count333
-\c@liststop=\count334
-\c@citecount=\count335
-\c@citetotal=\count336
-\c@multicitecount=\count337
-\c@multicitetotal=\count338
-\c@instcount=\count339
-\c@maxnames=\count340
-\c@minnames=\count341
-\c@maxitems=\count342
-\c@minitems=\count343
-\c@citecounter=\count344
-\c@maxcitecounter=\count345
-\c@savedcitecounter=\count346
-\c@uniquelist=\count347
-\c@uniquename=\count348
-\c@refsection=\count349
-\c@refsegment=\count350
-\c@maxextratitle=\count351
-\c@maxextratitleyear=\count352
-\c@maxextraname=\count353
-\c@maxextradate=\count354
-\c@maxextraalpha=\count355
-\c@abbrvpenalty=\count356
-\c@highnamepenalty=\count357
-\c@lownamepenalty=\count358
-\c@maxparens=\count359
-\c@parenlevel=\count360
-\blx@tempcnta=\count361
-\blx@tempcntb=\count362
-\blx@tempcntc=\count363
-\blx@maxsection=\count364
-\blx@maxsegment@0=\count365
-\blx@notetype=\count366
-\blx@parenlevel@text=\count367
-\blx@parenlevel@foot=\count368
-\blx@sectionciteorder@0=\count369
-\blx@entrysetcounter=\count370
-\labelnumberwidth=\skip66
-\labelalphawidth=\skip67
-\biblabelsep=\skip68
-\bibitemsep=\skip69
-\bibnamesep=\skip70
-\bibinitsep=\skip71
-\bibparsep=\skip72
-\bibhang=\skip73
+\c@tabx@nest=\count328
+\c@listtotal=\count329
+\c@listcount=\count330
+\c@liststart=\count331
+\c@liststop=\count332
+\c@citecount=\count333
+\c@citetotal=\count334
+\c@multicitecount=\count335
+\c@multicitetotal=\count336
+\c@instcount=\count337
+\c@maxnames=\count338
+\c@minnames=\count339
+\c@maxitems=\count340
+\c@minitems=\count341
+\c@citecounter=\count342
+\c@maxcitecounter=\count343
+\c@savedcitecounter=\count344
+\c@uniquelist=\count345
+\c@uniquename=\count346
+\c@refsection=\count347
+\c@refsegment=\count348
+\c@maxextratitle=\count349
+\c@maxextratitleyear=\count350
+\c@maxextraname=\count351
+\c@maxextradate=\count352
+\c@maxextraalpha=\count353
+\c@abbrvpenalty=\count354
+\c@highnamepenalty=\count355
+\c@lownamepenalty=\count356
+\c@maxparens=\count357
+\c@parenlevel=\count358
+\blx@tempcnta=\count359
+\blx@tempcntb=\count360
+\blx@tempcntc=\count361
+\blx@maxsection=\count362
+\blx@maxsegment@0=\count363
+\blx@notetype=\count364
+\blx@parenlevel@text=\count365
+\blx@parenlevel@foot=\count366
+\blx@sectionciteorder@0=\count367
+\blx@entrysetcounter=\count368
+\labelnumberwidth=\skip69
+\labelalphawidth=\skip70
+\biblabelsep=\skip71
+\bibitemsep=\skip72
+\bibnamesep=\skip73
+\bibinitsep=\skip74
+\bibparsep=\skip75
+\bibhang=\skip76
 \blx@bcfin=\read3
 \blx@bcfout=\write5
 \blx@langwohyphens=\language3
-\c@mincomprange=\count371
-\c@maxcomprange=\count372
-\c@mincompwidth=\count373
+\c@mincomprange=\count369
+\c@maxcomprange=\count370
+\c@mincompwidth=\count371
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -872,88 +847,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count374
-\c@savedafterword=\count375
-\c@annotator=\count376
-\c@savedannotator=\count377
-\c@author=\count378
-\c@savedauthor=\count379
-\c@bookauthor=\count380
-\c@savedbookauthor=\count381
-\c@commentator=\count382
-\c@savedcommentator=\count383
-\c@editor=\count384
-\c@savededitor=\count385
-\c@editora=\count386
-\c@savededitora=\count387
-\c@editorb=\count388
-\c@savededitorb=\count389
-\c@editorc=\count390
-\c@savededitorc=\count391
-\c@foreword=\count392
-\c@savedforeword=\count393
-\c@holder=\count394
-\c@savedholder=\count395
-\c@introduction=\count396
-\c@savedintroduction=\count397
-\c@namea=\count398
-\c@savednamea=\count399
-\c@nameb=\count400
-\c@savednameb=\count401
-\c@namec=\count402
-\c@savednamec=\count403
-\c@translator=\count404
-\c@savedtranslator=\count405
-\c@shortauthor=\count406
-\c@savedshortauthor=\count407
-\c@shorteditor=\count408
-\c@savedshorteditor=\count409
-\c@labelname=\count410
-\c@savedlabelname=\count411
-\c@institution=\count412
-\c@savedinstitution=\count413
-\c@lista=\count414
-\c@savedlista=\count415
-\c@listb=\count416
-\c@savedlistb=\count417
-\c@listc=\count418
-\c@savedlistc=\count419
-\c@listd=\count420
-\c@savedlistd=\count421
-\c@liste=\count422
-\c@savedliste=\count423
-\c@listf=\count424
-\c@savedlistf=\count425
-\c@location=\count426
-\c@savedlocation=\count427
-\c@organization=\count428
-\c@savedorganization=\count429
-\c@origlocation=\count430
-\c@savedoriglocation=\count431
-\c@origpublisher=\count432
-\c@savedorigpublisher=\count433
-\c@publisher=\count434
-\c@savedpublisher=\count435
-\c@language=\count436
-\c@savedlanguage=\count437
-\c@origlanguage=\count438
-\c@savedoriglanguage=\count439
-\c@pageref=\count440
-\c@savedpageref=\count441
-\shorthandwidth=\skip74
-\shortjournalwidth=\skip75
-\shortserieswidth=\skip76
-\shorttitlewidth=\skip77
-\shortauthorwidth=\skip78
-\shorteditorwidth=\skip79
-\locallabelnumberwidth=\skip80
-\locallabelalphawidth=\skip81
-\localshorthandwidth=\skip82
-\localshortjournalwidth=\skip83
-\localshortserieswidth=\skip84
-\localshorttitlewidth=\skip85
-\localshortauthorwidth=\skip86
-\localshorteditorwidth=\skip87
+\c@afterword=\count372
+\c@savedafterword=\count373
+\c@annotator=\count374
+\c@savedannotator=\count375
+\c@author=\count376
+\c@savedauthor=\count377
+\c@bookauthor=\count378
+\c@savedbookauthor=\count379
+\c@commentator=\count380
+\c@savedcommentator=\count381
+\c@editor=\count382
+\c@savededitor=\count383
+\c@editora=\count384
+\c@savededitora=\count385
+\c@editorb=\count386
+\c@savededitorb=\count387
+\c@editorc=\count388
+\c@savededitorc=\count389
+\c@foreword=\count390
+\c@savedforeword=\count391
+\c@holder=\count392
+\c@savedholder=\count393
+\c@introduction=\count394
+\c@savedintroduction=\count395
+\c@namea=\count396
+\c@savednamea=\count397
+\c@nameb=\count398
+\c@savednameb=\count399
+\c@namec=\count400
+\c@savednamec=\count401
+\c@translator=\count402
+\c@savedtranslator=\count403
+\c@shortauthor=\count404
+\c@savedshortauthor=\count405
+\c@shorteditor=\count406
+\c@savedshorteditor=\count407
+\c@labelname=\count408
+\c@savedlabelname=\count409
+\c@institution=\count410
+\c@savedinstitution=\count411
+\c@lista=\count412
+\c@savedlista=\count413
+\c@listb=\count414
+\c@savedlistb=\count415
+\c@listc=\count416
+\c@savedlistc=\count417
+\c@listd=\count418
+\c@savedlistd=\count419
+\c@liste=\count420
+\c@savedliste=\count421
+\c@listf=\count422
+\c@savedlistf=\count423
+\c@location=\count424
+\c@savedlocation=\count425
+\c@organization=\count426
+\c@savedorganization=\count427
+\c@origlocation=\count428
+\c@savedoriglocation=\count429
+\c@origpublisher=\count430
+\c@savedorigpublisher=\count431
+\c@publisher=\count432
+\c@savedpublisher=\count433
+\c@language=\count434
+\c@savedlanguage=\count435
+\c@origlanguage=\count436
+\c@savedoriglanguage=\count437
+\c@pageref=\count438
+\c@savedpageref=\count439
+\shorthandwidth=\skip77
+\shortjournalwidth=\skip78
+\shortserieswidth=\skip79
+\shorttitlewidth=\skip80
+\shortauthorwidth=\skip81
+\shorteditorwidth=\skip82
+\locallabelnumberwidth=\skip83
+\locallabelalphawidth=\skip84
+\localshorthandwidth=\skip85
+\localshortjournalwidth=\skip86
+\localshortserieswidth=\skip87
+\localshorttitlewidth=\skip88
+\localshortauthorwidth=\skip89
+\localshorteditorwidth=\skip90
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -965,19 +940,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count442
-\c@textcitetotal=\count443
-\c@textcitemaxnames=\count444
-\c@biburlbigbreakpenalty=\count445
-\c@biburlbreakpenalty=\count446
-\c@biburlnumpenalty=\count447
-\c@biburlucpenalty=\count448
-\c@biburllcpenalty=\count449
+\c@textcitecount=\count440
+\c@textcitetotal=\count441
+\c@textcitemaxnames=\count442
+\c@biburlbigbreakpenalty=\count443
+\c@biburlbreakpenalty=\count444
+\c@biburlnumpenalty=\count445
+\c@biburlucpenalty=\count446
+\c@biburllcpenalty=\count447
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count450
+\c@smartand=\count448
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -989,8 +964,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count451
-\c@bbx:relatedtotal=\count452
+\c@bbx:relatedcount=\count449
+\c@bbx:relatedtotal=\count450
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -1017,17 +992,17 @@ Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen308
-\captionmargin@=\dimen309
-\captionwidth=\dimen310
-\caption@tempdima=\dimen311
-\caption@indent=\dimen312
-\caption@parindent=\dimen313
-\caption@hangindent=\dimen314
+\captionmargin=\dimen310
+\captionmargin@=\dimen311
+\captionwidth=\dimen312
+\caption@tempdima=\dimen313
+\caption@indent=\dimen314
+\caption@parindent=\dimen315
+\caption@hangindent=\dimen316
 Package caption Info: beamer document class detected.
 )
-\c@caption@flags=\count453
-\c@continuedfloat=\count454
+\c@caption@flags=\count451
+\c@continuedfloat=\count452
 Package caption Info: beamer document class.
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
@@ -1039,33 +1014,33 @@ Package caption Info: Hyperref support is turned off
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty)
-\@quotelevel=\count455
-\@quotereset=\count456
+\@quotelevel=\count453
+\@quotereset=\count454
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count457
-\l__pdf_internal_box=\box77
+\l__kernel_color_stack_int=\count455
+\l__pdf_internal_box=\box78
 )
 (./SWCD-2021-07-30.aux)
 \openout1 = `SWCD-2021-07-30.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1103,17 +1078,17 @@ LaTeX Font Info:    ... okay on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count458
-\scratchdimen=\dimen315
-\scratchbox=\box78
-\nofMPsegments=\count459
-\nofMParguments=\count460
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count461
-\MPscratchDim=\dimen316
-\MPnumerator=\count462
-\makeMPintoPDFobject=\count463
-\everyMPtoPDFconversion=\toks48
+\scratchcounter=\count456
+\scratchdimen=\dimen317
+\scratchbox=\box79
+\nofMPsegments=\count457
+\nofMParguments=\count458
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count459
+\MPscratchDim=\dimen318
+\MPnumerator=\count460
+\makeMPintoPDFobject=\count461
+\everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1124,8 +1099,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring OFF on input line 57.
+\AtBeginShipoutBox=\box80
+Package hyperref Info: Link coloring OFF on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1136,58 +1111,58 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count464
+\c@section@level=\count462
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
 
 (./SWCD-2021-07-30.out) (./SWCD-2021-07-30.out)
 \@outlinefile=\write6
 \openout6 = `SWCD-2021-07-30.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 57.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 57.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 58.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 57.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 57.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 57.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 57.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 57.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 57.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 57.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 58.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 57.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 57.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 57.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 58.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 57.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 57.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 57.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 57.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 57.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 58.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 57.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1228,15 +1203,15 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'SWCD-2021-07-30.bbl' found.
 
 (./SWCD-2021-07-30.bbl)
-Package biblatex Info: Reference section=0 on input line 57.
-Package biblatex Info: Reference segment=0 on input line 57.
+Package biblatex Info: Reference section=0 on input line 58.
+Package biblatex Info: Reference segment=0 on input line 58.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./SWCD-2021-07-30.nav)
-<big_g2.pdf, id=44, 265.79298pt x 292.292pt>
+<big_g2.pdf, id=48, 265.79298pt x 292.292pt>
 File: big_g2.pdf Graphic file (type pdf)
 <use big_g2.pdf>
-Package pdftex.def Info: big_g2.pdf  used on input line 59.
+Package pdftex.def Info: big_g2.pdf  used on input line 60.
 (pdftex.def)             Requested size: 56.9055pt x 62.57841pt.
  [1
 
@@ -1246,25 +1221,25 @@ Package pdftex.def Info: big_g2.pdf  used on input line 59.
 ] [3
 
 ]
-<Guam.jpg, id=145, 1954.34366pt x 1099.31831pt>
+<Guam.jpg, id=152, 1954.34366pt x 1099.31831pt>
 File: Guam.jpg Graphic file (type jpg)
 <use Guam.jpg>
-Package pdftex.def Info: Guam.jpg  used on input line 69.
+Package pdftex.def Info: Guam.jpg  used on input line 70.
 (pdftex.def)             Requested size: 1954.3389pt x 1099.31564pt.
 
-Overfull \vbox (44.72304pt too high) detected at line 69
+Overfull \vbox (44.72304pt too high) detected at line 70
  []
 
 [4
 
  <./Guam.jpg>]
-<hippo.jpg, id=173, 1806.75pt x 1204.5pt>
+<hippo.jpg, id=179, 1806.75pt x 1204.5pt>
 File: hippo.jpg Graphic file (type jpg)
 <use hippo.jpg>
-Package pdftex.def Info: hippo.jpg  used on input line 73.
+Package pdftex.def Info: hippo.jpg  used on input line 74.
 (pdftex.def)             Requested size: 1806.7456pt x 1204.49707pt.
 
-Overfull \vbox (31.70561pt too high) detected at line 73
+Overfull \vbox (31.70561pt too high) detected at line 74
  []
 
 [5
@@ -1272,61 +1247,61 @@ Overfull \vbox (31.70561pt too high) detected at line 73
  <./hippo.jpg>]
 File: hippo.jpg Graphic file (type jpg)
 <use hippo.jpg>
-Package pdftex.def Info: hippo.jpg  used on input line 84.
+Package pdftex.def Info: hippo.jpg  used on input line 85.
 (pdftex.def)             Requested size: 195.35216pt x 130.23729pt.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
-4.
+5.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 [6
 
 ]
-<Bill_Clinton.jpg, id=227, 154.176pt x 201.1515pt>
+<Bill_Clinton.jpg, id=233, 154.176pt x 201.1515pt>
 File: Bill_Clinton.jpg Graphic file (type jpg)
 <use Bill_Clinton.jpg>
-Package pdftex.def Info: Bill_Clinton.jpg  used on input line 104.
+Package pdftex.def Info: Bill_Clinton.jpg  used on input line 105.
 (pdftex.def)             Requested size: 79.85672pt x 104.18825pt.
  [7
 
  <./Bill_Clinton.jpg>]
-<desert_island.jpg, id=257, 908.39375pt x 735.74875pt>
+<desert_island.jpg, id=263, 908.39375pt x 735.74875pt>
 File: desert_island.jpg Graphic file (type jpg)
 <use desert_island.jpg>
-Package pdftex.def Info: desert_island.jpg  used on input line 112.
+Package pdftex.def Info: desert_island.jpg  used on input line 113.
 (pdftex.def)             Requested size: 908.39154pt x 735.74695pt.
  [8
 
  <./desert_island.jpg>]
-<pacific-traffic.png, id=286, 1106.1325pt x 837.1275pt>
+<pacific-traffic.png, id=292, 1106.1325pt x 837.1275pt>
 File: pacific-traffic.png Graphic file (type png)
 <use pacific-traffic.png>
-Package pdftex.def Info: pacific-traffic.png  used on input line 120.
+Package pdftex.def Info: pacific-traffic.png  used on input line 121.
 (pdftex.def)             Requested size: 171.21765pt x 129.57458pt.
-<container-ship.jpg, id=287, 740.0448pt x 492.1587pt>
+<container-ship.jpg, id=293, 740.0448pt x 492.1587pt>
 File: container-ship.jpg Graphic file (type jpg)
 <use container-ship.jpg>
-Package pdftex.def Info: container-ship.jpg  used on input line 120.
+Package pdftex.def Info: container-ship.jpg  used on input line 121.
 (pdftex.def)             Requested size: 171.21765pt x 113.86249pt.
 
-Overfull \vbox (61.67314pt too high) detected at line 120
+Overfull \vbox (61.67314pt too high) detected at line 121
  []
 
 [9
 
  <./pacific-traffic.png> <./container-ship.jpg>]
-<kahului-airport.jpg, id=316, 1204.5pt x 803.0pt>
+<kahului-airport.jpg, id=322, 1204.5pt x 803.0pt>
 File: kahului-airport.jpg Graphic file (type jpg)
 <use kahului-airport.jpg>
-Package pdftex.def Info: kahului-airport.jpg  used on input line 135.
+Package pdftex.def Info: kahului-airport.jpg  used on input line 136.
 (pdftex.def)             Requested size: 136.741pt x 91.1677pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 135
+LaTeX Font Info:    Trying to load font information for U+msa on input line 136
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 135
+LaTeX Font Info:    Trying to load font information for U+msb on input line 136
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1336,25 +1311,25 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  <./kahului-airport.jpg>] [11
 
 ]
-<guamtop100.png, id=371, 1003.75pt x 709.65125pt>
+<guamtop100.png, id=377, 1003.75pt x 709.65125pt>
 File: guamtop100.png Graphic file (type png)
 <use guamtop100.png>
-Package pdftex.def Info: guamtop100.png  used on input line 148.
+Package pdftex.def Info: guamtop100.png  used on input line 149.
 (pdftex.def)             Requested size: 1003.74756pt x 709.6495pt.
 
-Overfull \vbox (5.65993pt too high) detected at line 148
+Overfull \vbox (5.65993pt too high) detected at line 149
  []
 
 [12
 
  <./guamtop100.png>]
-<5-annotated.png, id=400, 253.1859pt x 199.4652pt>
+<5-annotated.png, id=406, 253.1859pt x 199.4652pt>
 File: 5-annotated.png Graphic file (type png)
 <use 5-annotated.png>
-Package pdftex.def Info: 5-annotated.png  used on input line 152.
+Package pdftex.def Info: 5-annotated.png  used on input line 153.
 (pdftex.def)             Requested size: 253.18527pt x 199.4647pt.
 
-Overfull \vbox (3.06935pt too high) detected at line 152
+Overfull \vbox (3.06935pt too high) detected at line 153
  []
 
 [13
@@ -1362,10 +1337,10 @@ Overfull \vbox (3.06935pt too high) detected at line 152
  <./5-annotated.png>] [14
 
 ]
-<diag1.pdf, id=455, 794.97pt x 614.295pt>
+<diag1.pdf, id=461, 794.97pt x 614.295pt>
 File: diag1.pdf Graphic file (type pdf)
 <use diag1.pdf>
-Package pdftex.def Info: diag1.pdf  used on input line 168.
+Package pdftex.def Info: diag1.pdf  used on input line 169.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
  [15
 
@@ -1374,56 +1349,56 @@ Package pdftex.def Info: diag1.pdf  used on input line 168.
 ] [17
 
 ]
-<bts.jpg, id=774, 645.41125pt x 474.77374pt>
+<bts.jpg, id=781, 645.41125pt x 474.77374pt>
 File: bts.jpg Graphic file (type jpg)
 <use bts.jpg>
-Package pdftex.def Info: bts.jpg  used on input line 198.
+Package pdftex.def Info: bts.jpg  used on input line 199.
 (pdftex.def)             Requested size: 645.40968pt x 474.77258pt.
 
-Overfull \vbox (0.80746pt too high) detected at line 198
+Overfull \vbox (0.80746pt too high) detected at line 199
  []
 
 [18
 
  <./bts.jpg>]
-<birds-before-bts.png, id=802, 1606.0pt x 903.375pt>
+<birds-before-bts.png, id=808, 1606.0pt x 903.375pt>
 File: birds-before-bts.png Graphic file (type png)
 <use birds-before-bts.png>
-Package pdftex.def Info: birds-before-bts.png  used on input line 204.
+Package pdftex.def Info: birds-before-bts.png  used on input line 205.
 (pdftex.def)             Requested size: 370.45049pt x 208.38046pt.
 
-Overfull \hbox (28.01517pt too wide) in paragraph at lines 204--204
+Overfull \hbox (28.01517pt too wide) in paragraph at lines 205--205
  [] 
  []
 
 
-Overfull \vbox (1.21654pt too high) detected at line 204
+Overfull \vbox (1.21654pt too high) detected at line 205
  []
 
 [19
 
  <./birds-before-bts.png>]
-<birds-after-bts.png, id=831, 1606.0pt x 903.375pt>
+<birds-after-bts.png, id=837, 1606.0pt x 903.375pt>
 File: birds-after-bts.png Graphic file (type png)
 <use birds-after-bts.png>
-Package pdftex.def Info: birds-after-bts.png  used on input line 210.
+Package pdftex.def Info: birds-after-bts.png  used on input line 211.
 (pdftex.def)             Requested size: 370.45049pt x 208.38046pt.
 
-Overfull \hbox (28.01517pt too wide) in paragraph at lines 210--210
+Overfull \hbox (28.01517pt too wide) in paragraph at lines 211--211
  [] 
  []
 
 
-Overfull \vbox (1.21654pt too high) detected at line 210
+Overfull \vbox (1.21654pt too high) detected at line 211
  []
 
 [20
 
  <./birds-after-bts.png>]
-<eureka-bird-loss.png, id=858, 629.35126pt x 309.155pt>
+<eureka-bird-loss.png, id=864, 629.35126pt x 309.155pt>
 File: eureka-bird-loss.png Graphic file (type png)
 <use eureka-bird-loss.png>
-Package pdftex.def Info: eureka-bird-loss.png  used on input line 218.
+Package pdftex.def Info: eureka-bird-loss.png  used on input line 219.
 (pdftex.def)             Requested size: 265.13239pt x 130.23729pt.
  [21
 
@@ -1432,219 +1407,219 @@ Package pdftex.def Info: eureka-bird-loss.png  used on input line 218.
 ] [23
 
 ]
-<asian-cycad-scale/output-07.png, id=937, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-07.png, id=944, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-07.png Graphic file (type png)
 <use asian-cycad-scale/output-07.png>
 Package pdftex.def Info: asian-cycad-scale/output-07.png  used on input line 23
-4.
+5.
 (pdftex.def)             Requested size: 243.11191pt x 182.33142pt.
  [24
 
  <./asian-cycad-scale/output-07.png (PNG copy)>] [25
 
 ]
-<asian-cycad-scale/output-09.png, id=993, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-09.png, id=999, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-09.png Graphic file (type png)
 <use asian-cycad-scale/output-09.png>
-Package pdftex.def Info: asian-cycad-scale/output-09.png  used on input line 24
-9.
+Package pdftex.def Info: asian-cycad-scale/output-09.png  used on input line 25
+0.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 249
+Overfull \vbox (28.07587pt too high) detected at line 250
  []
 
 [26
 
  <./asian-cycad-scale/output-09.png (PNG copy)>]
-<asian-cycad-scale/output-10.png, id=1020, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-10.png, id=1026, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-10.png Graphic file (type png)
 <use asian-cycad-scale/output-10.png>
 Package pdftex.def Info: asian-cycad-scale/output-10.png  used on input line 25
-3.
+4.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 253
+Overfull \vbox (28.07587pt too high) detected at line 254
  []
 
 [27
 
  <./asian-cycad-scale/output-10.png (PNG copy)>]
-<asian-cycad-scale/output-11.png, id=1048, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-11.png, id=1054, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-11.png Graphic file (type png)
 <use asian-cycad-scale/output-11.png>
 Package pdftex.def Info: asian-cycad-scale/output-11.png  used on input line 25
-7.
+8.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 257
+Overfull \vbox (28.07587pt too high) detected at line 258
  []
 
 [28
 
  <./asian-cycad-scale/output-11.png (PNG copy)>]
-<asian-cycad-scale/output-12.png, id=1075, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-12.png, id=1081, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-12.png Graphic file (type png)
 <use asian-cycad-scale/output-12.png>
 Package pdftex.def Info: asian-cycad-scale/output-12.png  used on input line 26
-1.
+2.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 261
+Overfull \vbox (28.07587pt too high) detected at line 262
  []
 
 [29
 
  <./asian-cycad-scale/output-12.png (PNG copy)>]
-<asian-cycad-scale/output-13.png, id=1102, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-13.png, id=1108, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-13.png Graphic file (type png)
 <use asian-cycad-scale/output-13.png>
 Package pdftex.def Info: asian-cycad-scale/output-13.png  used on input line 26
-5.
+6.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 265
+Overfull \vbox (28.07587pt too high) detected at line 266
  []
 
 [30
 
  <./asian-cycad-scale/output-13.png (PNG copy)>]
-<asian-cycad-scale/output-14.png, id=1129, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-14.png, id=1135, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-14.png Graphic file (type png)
 <use asian-cycad-scale/output-14.png>
-Package pdftex.def Info: asian-cycad-scale/output-14.png  used on input line 26
-9.
+Package pdftex.def Info: asian-cycad-scale/output-14.png  used on input line 27
+0.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 269
+Overfull \vbox (28.07587pt too high) detected at line 270
  []
 
 [31
 
  <./asian-cycad-scale/output-14.png (PNG copy)>]
-<asian-cycad-scale/output-15.png, id=1158, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-15.png, id=1164, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-15.png Graphic file (type png)
 <use asian-cycad-scale/output-15.png>
 Package pdftex.def Info: asian-cycad-scale/output-15.png  used on input line 27
-3.
+4.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 273
+Overfull \vbox (28.07587pt too high) detected at line 274
  []
 
 [32
 
  <./asian-cycad-scale/output-15.png (PNG copy)>]
-<asian-cycad-scale/output-16.png, id=1185, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-16.png, id=1191, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-16.png Graphic file (type png)
 <use asian-cycad-scale/output-16.png>
 Package pdftex.def Info: asian-cycad-scale/output-16.png  used on input line 27
-7.
+8.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 277
+Overfull \vbox (28.07587pt too high) detected at line 278
  []
 
 [33
 
  <./asian-cycad-scale/output-16.png (PNG copy)>]
-<asian-cycad-scale/output-17.png, id=1212, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-17.png, id=1218, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-17.png Graphic file (type png)
 <use asian-cycad-scale/output-17.png>
 Package pdftex.def Info: asian-cycad-scale/output-17.png  used on input line 28
-1.
+2.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 281
+Overfull \vbox (28.07587pt too high) detected at line 282
  []
 
 [34
 
  <./asian-cycad-scale/output-17.png (PNG copy)>]
-<asian-cycad-scale/output-18.png, id=1239, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-18.png, id=1245, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-18.png Graphic file (type png)
 <use asian-cycad-scale/output-18.png>
 Package pdftex.def Info: asian-cycad-scale/output-18.png  used on input line 28
-5.
+6.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 285
+Overfull \vbox (28.07587pt too high) detected at line 286
  []
 
 [35
 
  <./asian-cycad-scale/output-18.png (PNG copy)>]
-<asian-cycad-scale/output-19.png, id=1267, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-19.png, id=1273, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-19.png Graphic file (type png)
 <use asian-cycad-scale/output-19.png>
-Package pdftex.def Info: asian-cycad-scale/output-19.png  used on input line 28
-9.
+Package pdftex.def Info: asian-cycad-scale/output-19.png  used on input line 29
+0.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 289
+Overfull \vbox (28.07587pt too high) detected at line 290
  []
 
 [36
 
  <./asian-cycad-scale/output-19.png (PNG copy)>]
-<asian-cycad-scale/output-20.png, id=1294, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-20.png, id=1300, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-20.png Graphic file (type png)
 <use asian-cycad-scale/output-20.png>
 Package pdftex.def Info: asian-cycad-scale/output-20.png  used on input line 29
-3.
+4.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 293
+Overfull \vbox (28.07587pt too high) detected at line 294
  []
 
 [37
 
  <./asian-cycad-scale/output-20.png (PNG copy)>]
-<asian-cycad-scale/output-24.png, id=1322, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-24.png, id=1328, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-24.png Graphic file (type png)
 <use asian-cycad-scale/output-24.png>
 Package pdftex.def Info: asian-cycad-scale/output-24.png  used on input line 29
-7.
+8.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 297
+Overfull \vbox (28.07587pt too high) detected at line 298
  []
 
 [38
 
  <./asian-cycad-scale/output-24.png (PNG copy)>]
-<asian-cycad-scale/output-25.png, id=1349, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-25.png, id=1355, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-25.png Graphic file (type png)
 <use asian-cycad-scale/output-25.png>
 Package pdftex.def Info: asian-cycad-scale/output-25.png  used on input line 30
-1.
+2.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 301
+Overfull \vbox (28.07587pt too high) detected at line 302
  []
 
 [39
 
  <./asian-cycad-scale/output-25.png (PNG copy)>]
-<asian-cycad-scale/output-51.png, id=1377, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-51.png, id=1383, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-51.png Graphic file (type png)
 <use asian-cycad-scale/output-51.png>
 Package pdftex.def Info: asian-cycad-scale/output-51.png  used on input line 30
-5.
+6.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 305
+Overfull \vbox (28.07587pt too high) detected at line 306
  []
 
 [40
 
  <./asian-cycad-scale/output-51.png (PNG copy)>]
-<CAS.png, id=1404, 1329.96875pt x 1042.89626pt>
+<CAS.png, id=1410, 1329.96875pt x 1042.89626pt>
 File: CAS.png Graphic file (type png)
 <use CAS.png>
-Package pdftex.def Info: CAS.png  used on input line 311.
+Package pdftex.def Info: CAS.png  used on input line 312.
 (pdftex.def)             Requested size: 1329.96552pt x 1042.89372pt.
 
-Overfull \vbox (5.65482pt too high) detected at line 311
+Overfull \vbox (5.65482pt too high) detected at line 312
  []
 
 [41
@@ -1654,105 +1629,105 @@ Overfull \vbox (5.65482pt too high) detected at line 311
 ] [43
 
 ]
-<crb-climate-change-connection/outputname-02.png, id=1486, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-02.png, id=1493, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-02.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-02.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-02.png  used 
-on input line 325.
+on input line 326.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 325
+Overfull \vbox (20.84894pt too high) detected at line 326
  []
 
 [44
 
  <./crb-climate-change-connection/outputname-02.png (PNG copy)>]
-<crb_map.png, id=1514, 1385.175pt x 794.97pt>
+<crb_map.png, id=1520, 1385.175pt x 794.97pt>
 File: crb_map.png Graphic file (type png)
 <use crb_map.png>
-Package pdftex.def Info: crb_map.png  used on input line 330.
+Package pdftex.def Info: crb_map.png  used on input line 331.
 (pdftex.def)             Requested size: 1385.17163pt x 794.96806pt.
  [45
 
  <./crb_map.png>]
-<crb_life_cycle2_cropped.png, id=1542, 910.40125pt x 710.655pt>
+<crb_life_cycle2_cropped.png, id=1548, 910.40125pt x 710.655pt>
 File: crb_life_cycle2_cropped.png Graphic file (type png)
 <use crb_life_cycle2_cropped.png>
-Package pdftex.def Info: crb_life_cycle2_cropped.png  used on input line 334.
+Package pdftex.def Info: crb_life_cycle2_cropped.png  used on input line 335.
 (pdftex.def)             Requested size: 910.39902pt x 710.65326pt.
 
-Overfull \vbox (5.65535pt too high) detected at line 334
+Overfull \vbox (5.65535pt too high) detected at line 335
  []
 
 [46
 
  <./crb_life_cycle2_cropped.png (PNG copy)>]
-<crb-climate-change-connection/outputname-08.png, id=1569, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-08.png, id=1575, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-08.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-08.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-08.png  used 
-on input line 338.
+on input line 339.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 338
+Overfull \vbox (20.84894pt too high) detected at line 339
  []
 
 [47
 
  <./crb-climate-change-connection/outputname-08.png (PNG copy)>]
-<crb-climate-change-connection/outputname-04.png, id=1597, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-04.png, id=1603, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-04.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-04.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-04.png  used 
-on input line 342.
+on input line 343.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 342
+Overfull \vbox (20.84894pt too high) detected at line 343
  []
 
 [48
 
  <./crb-climate-change-connection/outputname-04.png (PNG copy)>]
-<crb-climate-change-connection/outputname-05.png, id=1624, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-05.png, id=1630, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-05.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-05.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-05.png  used 
-on input line 346.
+on input line 347.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 346
+Overfull \vbox (20.84894pt too high) detected at line 347
  []
 
 [49
 
  <./crb-climate-change-connection/outputname-05.png (PNG copy)>]
-<crb-climate-change-connection/outputname-09.png, id=1652, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-09.png, id=1658, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-09.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-09.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-09.png  used 
-on input line 350.
+on input line 351.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 350
+Overfull \vbox (20.84894pt too high) detected at line 351
  []
 
 [50
 
  <./crb-climate-change-connection/outputname-09.png (PNG copy)>]
-<crb-climate-change-connection/outputname-10.png, id=1679, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-10.png, id=1685, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-10.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-10.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-10.png  used 
-on input line 354.
+on input line 355.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 354
+Overfull \vbox (20.84894pt too high) detected at line 355
  []
 
 [51
@@ -1763,43 +1738,43 @@ Overfull \vbox (20.84894pt too high) detected at line 354
 [53
 
 ]
-<crb-climate-change-connection/outputname-14.png, id=1759, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-14.png, id=1765, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-14.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-14.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-14.png  used 
-on input line 373.
+on input line 374.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 373
+Overfull \vbox (20.84894pt too high) detected at line 374
  []
 
 [54
 
  <./crb-climate-change-connection/outputname-14.png (PNG copy)>]
-<crb-climate-change-connection/outputname-13.png, id=1786, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-13.png, id=1792, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-13.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-13.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-13.png  used 
-on input line 377.
+on input line 378.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 377
+Overfull \vbox (20.84894pt too high) detected at line 378
  []
 
 [55
 
  <./crb-climate-change-connection/outputname-13.png (PNG copy)>]
-<crb-climate-change-connection/outputname-15.png, id=1815, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-15.png, id=1820, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-15.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-15.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-15.png  used 
-on input line 381.
+on input line 382.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 381
+Overfull \vbox (20.84894pt too high) detected at line 382
  []
 
 [56
@@ -1807,55 +1782,55 @@ Overfull \vbox (20.84894pt too high) detected at line 381
  <./crb-climate-change-connection/outputname-15.png (PNG copy)>] [57
 
 ]
-<lfa.jpg, id=1867, 903.375pt x 810.02625pt>
+<lfa.jpg, id=1874, 903.375pt x 810.02625pt>
 File: lfa.jpg Graphic file (type jpg)
 <use lfa.jpg>
-Package pdftex.def Info: lfa.jpg  used on input line 394.
+Package pdftex.def Info: lfa.jpg  used on input line 395.
 (pdftex.def)             Requested size: 174.28963pt x 156.28633pt.
 
 [58
 
  <./lfa.jpg>]
-<lfa2small.jpg, id=1894, 361.35pt x 271.0125pt>
+<lfa2small.jpg, id=1901, 361.35pt x 271.0125pt>
 File: lfa2small.jpg Graphic file (type jpg)
 <use lfa2small.jpg>
-Package pdftex.def Info: lfa2small.jpg  used on input line 402.
+Package pdftex.def Info: lfa2small.jpg  used on input line 403.
 (pdftex.def)             Requested size: 171.21765pt x 128.41385pt.
-<lfa-pencil.jpg, id=1895, 401.5pt x 281.05pt>
+<lfa-pencil.jpg, id=1902, 401.5pt x 281.05pt>
 File: lfa-pencil.jpg Graphic file (type jpg)
 <use lfa-pencil.jpg>
-Package pdftex.def Info: lfa-pencil.jpg  used on input line 402.
+Package pdftex.def Info: lfa-pencil.jpg  used on input line 403.
 (pdftex.def)             Requested size: 171.21765pt x 119.8542pt.
 
-Overfull \vbox (54.50412pt too high) detected at line 402
+Overfull \vbox (54.50412pt too high) detected at line 403
  []
 
 [59
 
  <./lfa2small.jpg> <./lfa-pencil.jpg>]
-<lfa-stings.png, id=1923, 789.95125pt x 328.22626pt>
+<lfa-stings.png, id=1930, 789.95125pt x 328.22626pt>
 File: lfa-stings.png Graphic file (type png)
 <use lfa-stings.png>
-Package pdftex.def Info: lfa-stings.png  used on input line 408.
+Package pdftex.def Info: lfa-stings.png  used on input line 409.
 (pdftex.def)             Requested size: 342.43532pt x 142.28143pt.
  [60
 
  <./lfa-stings.png>]
-<lfa-eyes.png, id=1950, 758.835pt x 268.00125pt>
+<lfa-eyes.png, id=1957, 758.835pt x 268.00125pt>
 File: lfa-eyes.png Graphic file (type png)
 <use lfa-eyes.png>
-Package pdftex.def Info: lfa-eyes.png  used on input line 414.
+Package pdftex.def Info: lfa-eyes.png  used on input line 415.
 (pdftex.def)             Requested size: 342.43532pt x 120.93886pt.
  [61
 
  <./lfa-eyes.png>]
-<lfa-hemiptera.png, id=1978, 390.45876pt x 422.57875pt>
+<lfa-hemiptera.png, id=1985, 390.45876pt x 422.57875pt>
 File: lfa-hemiptera.png Graphic file (type png)
 <use lfa-hemiptera.png>
-Package pdftex.def Info: lfa-hemiptera.png  used on input line 420.
+Package pdftex.def Info: lfa-hemiptera.png  used on input line 421.
 (pdftex.def)             Requested size: 204.58281pt x 221.40498pt.
 
-Overfull \vbox (0.64105pt too high) detected at line 420
+Overfull \vbox (0.64105pt too high) detected at line 421
  []
 
 [62
@@ -1863,13 +1838,13 @@ Overfull \vbox (0.64105pt too high) detected at line 420
  <./lfa-hemiptera.png>] [63
 
 ]
-<lfa-dump.png, id=2032, 722.3715pt x 541.6965pt>
+<lfa-dump.png, id=2039, 722.3715pt x 541.6965pt>
 File: lfa-dump.png Graphic file (type png)
 <use lfa-dump.png>
-Package pdftex.def Info: lfa-dump.png  used on input line 437.
+Package pdftex.def Info: lfa-dump.png  used on input line 438.
 (pdftex.def)             Requested size: 260.51648pt x 195.35594pt.
 
-Overfull \vbox (0.59201pt too high) detected at line 437
+Overfull \vbox (0.59201pt too high) detected at line 438
  []
 
 [64
@@ -1878,21 +1853,42 @@ Overfull \vbox (0.59201pt too high) detected at line 437
 
 ] [66
 
+] [67
+
 ]
-<asian-cycad-scale/output-53.png, id=2111, 364.2408pt x 273.1806pt>
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\T1/cmss/bx/n/10.95 to-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+\T1/cmss/bx/n/10.95 tree
+ []
+
+
+Overfull \hbox (2.8265pt too wide) in paragraph at lines 479--479
+\T1/cmss/bx/n/10.95 count| 
+ []
+
+[68
+
+] [69
+
+]
+<asian-cycad-scale/output-53.png, id=2199, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-53.png Graphic file (type png)
 <use asian-cycad-scale/output-53.png>
-Package pdftex.def Info: asian-cycad-scale/output-53.png  used on input line 45
-9.
+Package pdftex.def Info: asian-cycad-scale/output-53.png  used on input line 49
+1.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
- [67
+ [70
 
  <./asian-cycad-scale/output-53.png (PNG copy)>]
 
 Package biblatex Warning: No driver for entry type 'video'.
-(biblatex)                Using fallback driver on input line 464.
+(biblatex)                Using fallback driver on input line 496.
 
-[68
+[71
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write7
@@ -1904,50 +1900,43 @@ Package biblatex Warning: No driver for entry type 'video'.
 \tf@snm=\write9
 \openout9 = `SWCD-2021-07-30.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 466.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 466.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 498.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 498.
 
 (./SWCD-2021-07-30.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 466.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 466.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 498.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 498.
 Package rerunfilecheck Info: File `SWCD-2021-07-30.out' has not changed.
-(rerunfilecheck)             Checksum: 4D4A3022039E4F572EA60590160235C5;304.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(rerunfilecheck)             Checksum: FA405FC8766408A096155866BFD3FCBB;350.
 Package logreq Info: Writing requests to 'SWCD-2021-07-30.run.xml'.
 \openout1 = `SWCD-2021-07-30.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28474 strings out of 483183
- 546458 string characters out of 5966292
- 1187862 words of memory out of 5000000
- 42698 multiletter control sequences out of 15000+600000
- 547856 words of font info for 57 fonts, out of 8000000 for 9000
+ 27758 strings out of 483183
+ 530705 string characters out of 5966292
+ 1150965 words of memory out of 5000000
+ 41997 multiletter control sequences out of 15000+600000
+ 553550 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,15n,106p,782b,1581s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation69} has been referenced but does not ex
-ist, replaced by a fixed one
-
- </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.600p
-k> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1440.60
-0pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000.
-600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx100
-0.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1
+ 55i,16n,96p,782b,1581s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.60
+0pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.
+600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi144
+0.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1
 000.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecs
-x1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-ctt1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
-/ecss0600.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecss0800.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/ecss1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecss1440.600pk>
-Output written on SWCD-2021-07-30.pdf (68 pages, 67358173 bytes).
+x1000.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+css1000.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecsx1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ectt1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/ecss0600.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecss0800.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecss1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecss1440.600pk>
+Output written on SWCD-2021-07-30.pdf (71 pages, 67374401 bytes).
 PDF statistics:
- 2648 PDF objects out of 2984 (max. 8388607)
- 2049 compressed objects within 21 object streams
- 146 named destinations out of 1000 (max. 500000)
- 382 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2775 PDF objects out of 2984 (max. 8388607)
+ 2135 compressed objects within 22 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 

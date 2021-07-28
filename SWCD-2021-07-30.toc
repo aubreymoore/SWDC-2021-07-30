@@ -9,3 +9,5 @@
 \beamer@sectionintoc {4}{Coconut Rhinoceros Beetle}{43}{0}{4}
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {5}{Little Fire Ant}{57}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Conclusions}{67}{0}{6}
