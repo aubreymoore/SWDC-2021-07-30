@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.13)  29 JUL 2021 07:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.13)  29 JUL 2021 18:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -769,6 +769,8 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \everycr=\toks48
 \minrowclearance=\skip68
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
+
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
@@ -1025,22 +1027,22 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./SWCD-2021-07-30.aux)
 \openout1 = `SWCD-2021-07-30.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1100,7 +1102,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box80
-Package hyperref Info: Link coloring OFF on input line 58.
+Package hyperref Info: Link coloring ON on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1113,56 +1115,56 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count462
 )
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
-LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 (./SWCD-2021-07-30.out) (./SWCD-2021-07-30.out)
 \@outlinefile=\write6
 \openout6 = `SWCD-2021-07-30.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 58.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 58.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 60.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 58.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 58.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 58.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 58.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 58.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 58.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 58.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 58.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 58.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 58.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 58.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 58.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 58.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 58.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 58.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 58.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 58.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 58.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 58.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 58.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1203,694 +1205,681 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'SWCD-2021-07-30.bbl' found.
 
 (./SWCD-2021-07-30.bbl)
-Package biblatex Info: Reference section=0 on input line 58.
-Package biblatex Info: Reference segment=0 on input line 58.
+Package biblatex Info: Reference section=0 on input line 60.
+Package biblatex Info: Reference segment=0 on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./SWCD-2021-07-30.nav)
-<big_g2.pdf, id=48, 265.79298pt x 292.292pt>
-File: big_g2.pdf Graphic file (type pdf)
-<use big_g2.pdf>
-Package pdftex.def Info: big_g2.pdf  used on input line 60.
-(pdftex.def)             Requested size: 56.9055pt x 62.57841pt.
- [1
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+2.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./big_g2.pdf>] (./SWCD-202
-1-07-30.toc) [2
-
-] [3
-
-]
-<Guam.jpg, id=152, 1954.34366pt x 1099.31831pt>
-File: Guam.jpg Graphic file (type jpg)
-<use Guam.jpg>
-Package pdftex.def Info: Guam.jpg  used on input line 70.
-(pdftex.def)             Requested size: 1954.3389pt x 1099.31564pt.
-
-Overfull \vbox (44.72304pt too high) detected at line 70
- []
-
-[4
-
- <./Guam.jpg>]
-<hippo.jpg, id=179, 1806.75pt x 1204.5pt>
-File: hippo.jpg Graphic file (type jpg)
-<use hippo.jpg>
-Package pdftex.def Info: hippo.jpg  used on input line 74.
-(pdftex.def)             Requested size: 1806.7456pt x 1204.49707pt.
-
-Overfull \vbox (31.70561pt too high) detected at line 74
- []
-
-[5
-
- <./hippo.jpg>]
-File: hippo.jpg Graphic file (type jpg)
-<use hippo.jpg>
-Package pdftex.def Info: hippo.jpg  used on input line 85.
-(pdftex.def)             Requested size: 195.35216pt x 130.23729pt.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
-5.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-[6
+LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
 
-]
-<Bill_Clinton.jpg, id=233, 154.176pt x 201.1515pt>
-File: Bill_Clinton.jpg Graphic file (type jpg)
-<use Bill_Clinton.jpg>
-Package pdftex.def Info: Bill_Clinton.jpg  used on input line 105.
-(pdftex.def)             Requested size: 79.85672pt x 104.18825pt.
- [7
-
- <./Bill_Clinton.jpg>]
-<desert_island.jpg, id=263, 908.39375pt x 735.74875pt>
-File: desert_island.jpg Graphic file (type jpg)
-<use desert_island.jpg>
-Package pdftex.def Info: desert_island.jpg  used on input line 113.
-(pdftex.def)             Requested size: 908.39154pt x 735.74695pt.
- [8
-
- <./desert_island.jpg>]
-<pacific-traffic.png, id=292, 1106.1325pt x 837.1275pt>
-File: pacific-traffic.png Graphic file (type png)
-<use pacific-traffic.png>
-Package pdftex.def Info: pacific-traffic.png  used on input line 121.
-(pdftex.def)             Requested size: 171.21765pt x 129.57458pt.
-<container-ship.jpg, id=293, 740.0448pt x 492.1587pt>
-File: container-ship.jpg Graphic file (type jpg)
-<use container-ship.jpg>
-Package pdftex.def Info: container-ship.jpg  used on input line 121.
-(pdftex.def)             Requested size: 171.21765pt x 113.86249pt.
-
-Overfull \vbox (61.67314pt too high) detected at line 121
- []
-
-[9
-
- <./pacific-traffic.png> <./container-ship.jpg>]
-<kahului-airport.jpg, id=322, 1204.5pt x 803.0pt>
-File: kahului-airport.jpg Graphic file (type jpg)
-<use kahului-airport.jpg>
-Package pdftex.def Info: kahului-airport.jpg  used on input line 136.
-(pdftex.def)             Requested size: 136.741pt x 91.1677pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 136
-.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 136
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [10
+)
+<big_g2.pdf, id=49, 265.79298pt x 292.292pt>
+File: big_g2.pdf Graphic file (type pdf)
+<use big_g2.pdf>
+Package pdftex.def Info: big_g2.pdf  used on input line 62.
+(pdftex.def)             Requested size: 56.9055pt x 62.57841pt.
+ [1
 
- <./kahului-airport.jpg>] [11
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./big_g2.pdf>]
+<Guam.jpg, id=86, 1954.34366pt x 1099.31831pt>
+File: Guam.jpg Graphic file (type jpg)
+<use Guam.jpg>
+Package pdftex.def Info: Guam.jpg  used on input line 68.
+(pdftex.def)             Requested size: 1954.3389pt x 1099.31564pt.
+
+Overfull \vbox (44.72304pt too high) detected at line 68
+ []
+
+[2
+
+ <./Guam.jpg>]
+<hippo.jpg, id=115, 1806.75pt x 1204.5pt>
+File: hippo.jpg Graphic file (type jpg)
+<use hippo.jpg>
+Package pdftex.def Info: hippo.jpg  used on input line 72.
+(pdftex.def)             Requested size: 1806.7456pt x 1204.49707pt.
+
+Overfull \vbox (31.70561pt too high) detected at line 72
+ []
+
+[3
+
+ <./hippo.jpg>]
+File: hippo.jpg Graphic file (type jpg)
+<use hippo.jpg>
+Package pdftex.def Info: hippo.jpg  used on input line 83.
+(pdftex.def)             Requested size: 195.35216pt x 130.23729pt.
+ [4
 
 ]
-<guamtop100.png, id=377, 1003.75pt x 709.65125pt>
+<Bill_Clinton.jpg, id=170, 154.176pt x 201.1515pt>
+File: Bill_Clinton.jpg Graphic file (type jpg)
+<use Bill_Clinton.jpg>
+Package pdftex.def Info: Bill_Clinton.jpg  used on input line 103.
+(pdftex.def)             Requested size: 79.85672pt x 104.18825pt.
+ [5
+
+ <./Bill_Clinton.jpg>]
+<desert_island.jpg, id=198, 908.39375pt x 735.74875pt>
+File: desert_island.jpg Graphic file (type jpg)
+<use desert_island.jpg>
+Package pdftex.def Info: desert_island.jpg  used on input line 111.
+(pdftex.def)             Requested size: 908.39154pt x 735.74695pt.
+ [6
+
+ <./desert_island.jpg>]
+<pacific-traffic.png, id=227, 1106.1325pt x 837.1275pt>
+File: pacific-traffic.png Graphic file (type png)
+<use pacific-traffic.png>
+Package pdftex.def Info: pacific-traffic.png  used on input line 119.
+(pdftex.def)             Requested size: 171.21765pt x 129.57458pt.
+<container-ship.jpg, id=228, 740.0448pt x 492.1587pt>
+File: container-ship.jpg Graphic file (type jpg)
+<use container-ship.jpg>
+Package pdftex.def Info: container-ship.jpg  used on input line 119.
+(pdftex.def)             Requested size: 171.21765pt x 113.86249pt.
+
+Overfull \vbox (61.67314pt too high) detected at line 119
+ []
+
+[7
+
+ <./pacific-traffic.png> <./container-ship.jpg>]
+<kahului-airport.jpg, id=258, 1204.5pt x 803.0pt>
+File: kahului-airport.jpg Graphic file (type jpg)
+<use kahului-airport.jpg>
+Package pdftex.def Info: kahului-airport.jpg  used on input line 134.
+(pdftex.def)             Requested size: 136.741pt x 91.1677pt.
+ [8
+
+ <./kahului-airport.jpg>]
+[9
+
+]
+<guamtop100.png, id=313, 1003.75pt x 709.65125pt>
 File: guamtop100.png Graphic file (type png)
 <use guamtop100.png>
-Package pdftex.def Info: guamtop100.png  used on input line 149.
+Package pdftex.def Info: guamtop100.png  used on input line 147.
 (pdftex.def)             Requested size: 1003.74756pt x 709.6495pt.
 
-Overfull \vbox (5.65993pt too high) detected at line 149
+Overfull \vbox (5.65993pt too high) detected at line 147
  []
 
-[12
+[10
 
  <./guamtop100.png>]
-<5-annotated.png, id=406, 253.1859pt x 199.4652pt>
+<5-annotated.png, id=342, 253.1859pt x 199.4652pt>
 File: 5-annotated.png Graphic file (type png)
 <use 5-annotated.png>
-Package pdftex.def Info: 5-annotated.png  used on input line 153.
+Package pdftex.def Info: 5-annotated.png  used on input line 151.
 (pdftex.def)             Requested size: 253.18527pt x 199.4647pt.
 
-Overfull \vbox (3.06935pt too high) detected at line 153
+Overfull \vbox (3.06935pt too high) detected at line 151
  []
 
-[13
+[11
 
- <./5-annotated.png>] [14
+ <./5-annotated.png>] [12
 
 ]
-<diag1.pdf, id=461, 794.97pt x 614.295pt>
+<diag1.pdf, id=397, 794.97pt x 614.295pt>
 File: diag1.pdf Graphic file (type pdf)
 <use diag1.pdf>
-Package pdftex.def Info: diag1.pdf  used on input line 169.
+Package pdftex.def Info: diag1.pdf  used on input line 167.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
- [15
+ [13
 
- <./diag1.pdf>] [16
-
-] [17
+ <./diag1.pdf>] [14
 
 ]
-<bts.jpg, id=781, 645.41125pt x 474.77374pt>
+<bts.jpg, id=689, 645.41125pt x 474.77374pt>
 File: bts.jpg Graphic file (type jpg)
 <use bts.jpg>
-Package pdftex.def Info: bts.jpg  used on input line 199.
+Package pdftex.def Info: bts.jpg  used on input line 197.
 (pdftex.def)             Requested size: 645.40968pt x 474.77258pt.
 
-Overfull \vbox (0.80746pt too high) detected at line 199
+Overfull \vbox (0.80746pt too high) detected at line 197
  []
 
-[18
+[15
 
  <./bts.jpg>]
-<birds-before-bts.png, id=808, 1606.0pt x 903.375pt>
+<birds-before-bts.png, id=718, 1606.0pt x 903.375pt>
 File: birds-before-bts.png Graphic file (type png)
 <use birds-before-bts.png>
-Package pdftex.def Info: birds-before-bts.png  used on input line 205.
+Package pdftex.def Info: birds-before-bts.png  used on input line 203.
 (pdftex.def)             Requested size: 370.45049pt x 208.38046pt.
 
-Overfull \hbox (28.01517pt too wide) in paragraph at lines 205--205
+Overfull \hbox (28.01517pt too wide) in paragraph at lines 203--203
  [] 
  []
 
 
-Overfull \vbox (1.21654pt too high) detected at line 205
+Overfull \vbox (1.21654pt too high) detected at line 203
  []
 
-[19
+[16
 
  <./birds-before-bts.png>]
-<birds-after-bts.png, id=837, 1606.0pt x 903.375pt>
+<birds-after-bts.png, id=746, 1606.0pt x 903.375pt>
 File: birds-after-bts.png Graphic file (type png)
 <use birds-after-bts.png>
-Package pdftex.def Info: birds-after-bts.png  used on input line 211.
+Package pdftex.def Info: birds-after-bts.png  used on input line 209.
 (pdftex.def)             Requested size: 370.45049pt x 208.38046pt.
 
-Overfull \hbox (28.01517pt too wide) in paragraph at lines 211--211
+Overfull \hbox (28.01517pt too wide) in paragraph at lines 209--209
  [] 
  []
 
 
-Overfull \vbox (1.21654pt too high) detected at line 211
+Overfull \vbox (1.21654pt too high) detected at line 209
  []
 
-[20
+[17
 
  <./birds-after-bts.png>]
-<eureka-bird-loss.png, id=864, 629.35126pt x 309.155pt>
+<eureka-bird-loss.png, id=773, 629.35126pt x 309.155pt>
 File: eureka-bird-loss.png Graphic file (type png)
 <use eureka-bird-loss.png>
-Package pdftex.def Info: eureka-bird-loss.png  used on input line 219.
+Package pdftex.def Info: eureka-bird-loss.png  used on input line 217.
 (pdftex.def)             Requested size: 265.13239pt x 130.23729pt.
- [21
+ [18
 
- <./eureka-bird-loss.png>] [22
-
-] [23
+ <./eureka-bird-loss.png>] [19
 
 ]
-<asian-cycad-scale/output-07.png, id=944, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-07.png, id=825, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-07.png Graphic file (type png)
 <use asian-cycad-scale/output-07.png>
 Package pdftex.def Info: asian-cycad-scale/output-07.png  used on input line 23
-5.
+3.
 (pdftex.def)             Requested size: 243.11191pt x 182.33142pt.
- [24
+ [20
 
- <./asian-cycad-scale/output-07.png (PNG copy)>] [25
+ <./asian-cycad-scale/output-07.png (PNG copy)>] [21
 
 ]
-<asian-cycad-scale/output-09.png, id=999, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-09.png, id=882, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-09.png Graphic file (type png)
 <use asian-cycad-scale/output-09.png>
-Package pdftex.def Info: asian-cycad-scale/output-09.png  used on input line 25
+Package pdftex.def Info: asian-cycad-scale/output-09.png  used on input line 24
+8.
+(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
+
+Overfull \vbox (28.07587pt too high) detected at line 248
+ []
+
+[22
+
+ <./asian-cycad-scale/output-09.png (PNG copy)>]
+<asian-cycad-scale/output-10.png, id=909, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-10.png Graphic file (type png)
+<use asian-cycad-scale/output-10.png>
+Package pdftex.def Info: asian-cycad-scale/output-10.png  used on input line 25
+2.
+(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
+
+Overfull \vbox (28.07587pt too high) detected at line 252
+ []
+
+[23
+
+ <./asian-cycad-scale/output-10.png (PNG copy)>]
+<asian-cycad-scale/output-11.png, id=936, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-11.png Graphic file (type png)
+<use asian-cycad-scale/output-11.png>
+Package pdftex.def Info: asian-cycad-scale/output-11.png  used on input line 25
+6.
+(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
+
+Overfull \vbox (28.07587pt too high) detected at line 256
+ []
+
+[24
+
+ <./asian-cycad-scale/output-11.png (PNG copy)>]
+<asian-cycad-scale/output-12.png, id=964, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-12.png Graphic file (type png)
+<use asian-cycad-scale/output-12.png>
+Package pdftex.def Info: asian-cycad-scale/output-12.png  used on input line 26
 0.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 250
+Overfull \vbox (28.07587pt too high) detected at line 260
+ []
+
+[25
+
+ <./asian-cycad-scale/output-12.png (PNG copy)>]
+<asian-cycad-scale/output-13.png, id=992, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-13.png Graphic file (type png)
+<use asian-cycad-scale/output-13.png>
+Package pdftex.def Info: asian-cycad-scale/output-13.png  used on input line 26
+4.
+(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
+
+Overfull \vbox (28.07587pt too high) detected at line 264
  []
 
 [26
 
- <./asian-cycad-scale/output-09.png (PNG copy)>]
-<asian-cycad-scale/output-10.png, id=1026, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-10.png Graphic file (type png)
-<use asian-cycad-scale/output-10.png>
-Package pdftex.def Info: asian-cycad-scale/output-10.png  used on input line 25
-4.
+ <./asian-cycad-scale/output-13.png (PNG copy)>]
+<asian-cycad-scale/output-14.png, id=1019, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-14.png Graphic file (type png)
+<use asian-cycad-scale/output-14.png>
+Package pdftex.def Info: asian-cycad-scale/output-14.png  used on input line 26
+8.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 254
+Overfull \vbox (28.07587pt too high) detected at line 268
  []
 
 [27
 
- <./asian-cycad-scale/output-10.png (PNG copy)>]
-<asian-cycad-scale/output-11.png, id=1054, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-11.png Graphic file (type png)
-<use asian-cycad-scale/output-11.png>
-Package pdftex.def Info: asian-cycad-scale/output-11.png  used on input line 25
-8.
+ <./asian-cycad-scale/output-14.png (PNG copy)>]
+<asian-cycad-scale/output-15.png, id=1046, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-15.png Graphic file (type png)
+<use asian-cycad-scale/output-15.png>
+Package pdftex.def Info: asian-cycad-scale/output-15.png  used on input line 27
+2.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 258
+Overfull \vbox (28.07587pt too high) detected at line 272
  []
 
 [28
 
- <./asian-cycad-scale/output-11.png (PNG copy)>]
-<asian-cycad-scale/output-12.png, id=1081, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-12.png Graphic file (type png)
-<use asian-cycad-scale/output-12.png>
-Package pdftex.def Info: asian-cycad-scale/output-12.png  used on input line 26
-2.
+ <./asian-cycad-scale/output-15.png (PNG copy)>]
+<asian-cycad-scale/output-16.png, id=1074, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-16.png Graphic file (type png)
+<use asian-cycad-scale/output-16.png>
+Package pdftex.def Info: asian-cycad-scale/output-16.png  used on input line 27
+6.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 262
+Overfull \vbox (28.07587pt too high) detected at line 276
  []
 
 [29
 
- <./asian-cycad-scale/output-12.png (PNG copy)>]
-<asian-cycad-scale/output-13.png, id=1108, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-13.png Graphic file (type png)
-<use asian-cycad-scale/output-13.png>
-Package pdftex.def Info: asian-cycad-scale/output-13.png  used on input line 26
-6.
+ <./asian-cycad-scale/output-16.png (PNG copy)>]
+<asian-cycad-scale/output-17.png, id=1101, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-17.png Graphic file (type png)
+<use asian-cycad-scale/output-17.png>
+Package pdftex.def Info: asian-cycad-scale/output-17.png  used on input line 28
+0.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 266
+Overfull \vbox (28.07587pt too high) detected at line 280
  []
 
 [30
 
- <./asian-cycad-scale/output-13.png (PNG copy)>]
-<asian-cycad-scale/output-14.png, id=1135, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-14.png Graphic file (type png)
-<use asian-cycad-scale/output-14.png>
-Package pdftex.def Info: asian-cycad-scale/output-14.png  used on input line 27
-0.
+ <./asian-cycad-scale/output-17.png (PNG copy)>]
+<asian-cycad-scale/output-18.png, id=1128, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-18.png Graphic file (type png)
+<use asian-cycad-scale/output-18.png>
+Package pdftex.def Info: asian-cycad-scale/output-18.png  used on input line 28
+4.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 270
+Overfull \vbox (28.07587pt too high) detected at line 284
  []
 
 [31
 
- <./asian-cycad-scale/output-14.png (PNG copy)>]
-<asian-cycad-scale/output-15.png, id=1164, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-15.png Graphic file (type png)
-<use asian-cycad-scale/output-15.png>
-Package pdftex.def Info: asian-cycad-scale/output-15.png  used on input line 27
-4.
+ <./asian-cycad-scale/output-18.png (PNG copy)>]
+<asian-cycad-scale/output-19.png, id=1156, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-19.png Graphic file (type png)
+<use asian-cycad-scale/output-19.png>
+Package pdftex.def Info: asian-cycad-scale/output-19.png  used on input line 28
+8.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 274
+Overfull \vbox (28.07587pt too high) detected at line 288
  []
 
 [32
 
- <./asian-cycad-scale/output-15.png (PNG copy)>]
-<asian-cycad-scale/output-16.png, id=1191, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-16.png Graphic file (type png)
-<use asian-cycad-scale/output-16.png>
-Package pdftex.def Info: asian-cycad-scale/output-16.png  used on input line 27
-8.
+ <./asian-cycad-scale/output-19.png (PNG copy)>]
+<asian-cycad-scale/output-20.png, id=1184, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-20.png Graphic file (type png)
+<use asian-cycad-scale/output-20.png>
+Package pdftex.def Info: asian-cycad-scale/output-20.png  used on input line 29
+2.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 278
+Overfull \vbox (28.07587pt too high) detected at line 292
  []
 
 [33
 
- <./asian-cycad-scale/output-16.png (PNG copy)>]
-<asian-cycad-scale/output-17.png, id=1218, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-17.png Graphic file (type png)
-<use asian-cycad-scale/output-17.png>
-Package pdftex.def Info: asian-cycad-scale/output-17.png  used on input line 28
-2.
+ <./asian-cycad-scale/output-20.png (PNG copy)>]
+<asian-cycad-scale/output-24.png, id=1211, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-24.png Graphic file (type png)
+<use asian-cycad-scale/output-24.png>
+Package pdftex.def Info: asian-cycad-scale/output-24.png  used on input line 29
+6.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 282
+Overfull \vbox (28.07587pt too high) detected at line 296
  []
 
 [34
 
- <./asian-cycad-scale/output-17.png (PNG copy)>]
-<asian-cycad-scale/output-18.png, id=1245, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-18.png Graphic file (type png)
-<use asian-cycad-scale/output-18.png>
-Package pdftex.def Info: asian-cycad-scale/output-18.png  used on input line 28
-6.
+ <./asian-cycad-scale/output-24.png (PNG copy)>]
+<asian-cycad-scale/output-25.png, id=1238, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-25.png Graphic file (type png)
+<use asian-cycad-scale/output-25.png>
+Package pdftex.def Info: asian-cycad-scale/output-25.png  used on input line 30
+0.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 286
+Overfull \vbox (28.07587pt too high) detected at line 300
  []
 
 [35
 
- <./asian-cycad-scale/output-18.png (PNG copy)>]
-<asian-cycad-scale/output-19.png, id=1273, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-19.png Graphic file (type png)
-<use asian-cycad-scale/output-19.png>
-Package pdftex.def Info: asian-cycad-scale/output-19.png  used on input line 29
-0.
+ <./asian-cycad-scale/output-25.png (PNG copy)>]
+<asian-cycad-scale/output-51.png, id=1265, 364.2408pt x 273.1806pt>
+File: asian-cycad-scale/output-51.png Graphic file (type png)
+<use asian-cycad-scale/output-51.png>
+Package pdftex.def Info: asian-cycad-scale/output-51.png  used on input line 30
+4.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 290
+Overfull \vbox (28.07587pt too high) detected at line 304
  []
 
 [36
 
- <./asian-cycad-scale/output-19.png (PNG copy)>]
-<asian-cycad-scale/output-20.png, id=1300, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-20.png Graphic file (type png)
-<use asian-cycad-scale/output-20.png>
-Package pdftex.def Info: asian-cycad-scale/output-20.png  used on input line 29
-4.
-(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
+ <./asian-cycad-scale/output-51.png (PNG copy)>]
+<CAS.png, id=1293, 1329.96875pt x 1042.89626pt>
+File: CAS.png Graphic file (type png)
+<use CAS.png>
+Package pdftex.def Info: CAS.png  used on input line 310.
+(pdftex.def)             Requested size: 1329.96552pt x 1042.89372pt.
 
-Overfull \vbox (28.07587pt too high) detected at line 294
+Overfull \vbox (5.65482pt too high) detected at line 310
  []
 
 [37
 
- <./asian-cycad-scale/output-20.png (PNG copy)>]
-<asian-cycad-scale/output-24.png, id=1328, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-24.png Graphic file (type png)
-<use asian-cycad-scale/output-24.png>
-Package pdftex.def Info: asian-cycad-scale/output-24.png  used on input line 29
-8.
-(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
-
-Overfull \vbox (28.07587pt too high) detected at line 298
- []
-
-[38
-
- <./asian-cycad-scale/output-24.png (PNG copy)>]
-<asian-cycad-scale/output-25.png, id=1355, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-25.png Graphic file (type png)
-<use asian-cycad-scale/output-25.png>
-Package pdftex.def Info: asian-cycad-scale/output-25.png  used on input line 30
-2.
-(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
-
-Overfull \vbox (28.07587pt too high) detected at line 302
- []
-
-[39
-
- <./asian-cycad-scale/output-25.png (PNG copy)>]
-<asian-cycad-scale/output-51.png, id=1383, 364.2408pt x 273.1806pt>
-File: asian-cycad-scale/output-51.png Graphic file (type png)
-<use asian-cycad-scale/output-51.png>
-Package pdftex.def Info: asian-cycad-scale/output-51.png  used on input line 30
-6.
-(pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
-
-Overfull \vbox (28.07587pt too high) detected at line 306
- []
-
-[40
-
- <./asian-cycad-scale/output-51.png (PNG copy)>]
-<CAS.png, id=1410, 1329.96875pt x 1042.89626pt>
-File: CAS.png Graphic file (type png)
-<use CAS.png>
-Package pdftex.def Info: CAS.png  used on input line 312.
-(pdftex.def)             Requested size: 1329.96552pt x 1042.89372pt.
-
-Overfull \vbox (5.65482pt too high) detected at line 312
- []
-
-[41
-
- <./CAS.png>] [42
-
-] [43
+ <./CAS.png>] [38
 
 ]
-<crb-climate-change-connection/outputname-02.png, id=1493, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-02.png, id=1347, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-02.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-02.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-02.png  used 
-on input line 326.
+on input line 324.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 326
+Overfull \vbox (20.84894pt too high) detected at line 324
  []
 
-[44
+[39
 
  <./crb-climate-change-connection/outputname-02.png (PNG copy)>]
-<crb_map.png, id=1520, 1385.175pt x 794.97pt>
+<crb_map.png, id=1377, 1385.175pt x 794.97pt>
 File: crb_map.png Graphic file (type png)
 <use crb_map.png>
-Package pdftex.def Info: crb_map.png  used on input line 331.
+Package pdftex.def Info: crb_map.png  used on input line 329.
 (pdftex.def)             Requested size: 1385.17163pt x 794.96806pt.
- [45
+ [40
 
  <./crb_map.png>]
-<crb_life_cycle2_cropped.png, id=1548, 910.40125pt x 710.655pt>
+<crb_life_cycle2_cropped.png, id=1405, 910.40125pt x 710.655pt>
 File: crb_life_cycle2_cropped.png Graphic file (type png)
 <use crb_life_cycle2_cropped.png>
-Package pdftex.def Info: crb_life_cycle2_cropped.png  used on input line 335.
+Package pdftex.def Info: crb_life_cycle2_cropped.png  used on input line 333.
 (pdftex.def)             Requested size: 910.39902pt x 710.65326pt.
 
-Overfull \vbox (5.65535pt too high) detected at line 335
+Overfull \vbox (5.65535pt too high) detected at line 333
  []
 
-[46
+[41
 
  <./crb_life_cycle2_cropped.png (PNG copy)>]
-<crb-climate-change-connection/outputname-08.png, id=1575, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-08.png, id=1432, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-08.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-08.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-08.png  used 
-on input line 339.
+on input line 337.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 339
+Overfull \vbox (20.84894pt too high) detected at line 337
  []
 
-[47
+[42
 
  <./crb-climate-change-connection/outputname-08.png (PNG copy)>]
-<crb-climate-change-connection/outputname-04.png, id=1603, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-04.png, id=1459, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-04.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-04.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-04.png  used 
-on input line 343.
+on input line 341.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 343
+Overfull \vbox (20.84894pt too high) detected at line 341
  []
 
-[48
+[43
 
  <./crb-climate-change-connection/outputname-04.png (PNG copy)>]
-<crb-climate-change-connection/outputname-05.png, id=1630, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-05.png, id=1488, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-05.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-05.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-05.png  used 
-on input line 347.
+on input line 345.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 347
+Overfull \vbox (20.84894pt too high) detected at line 345
  []
 
-[49
+[44
 
  <./crb-climate-change-connection/outputname-05.png (PNG copy)>]
-<crb-climate-change-connection/outputname-09.png, id=1658, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-09.png, id=1515, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-09.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-09.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-09.png  used 
-on input line 351.
+on input line 349.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 351
+Overfull \vbox (20.84894pt too high) detected at line 349
  []
 
-[50
+[45
 
  <./crb-climate-change-connection/outputname-09.png (PNG copy)>]
-<crb-climate-change-connection/outputname-10.png, id=1685, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-10.png, id=1542, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-10.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-10.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-10.png  used 
-on input line 355.
+on input line 353.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
-Overfull \vbox (20.84894pt too high) detected at line 355
+Overfull \vbox (20.84894pt too high) detected at line 353
  []
 
-[51
+[46
 
- <./crb-climate-change-connection/outputname-10.png (PNG copy)>] [52
-
-]
-[53
+ <./crb-climate-change-connection/outputname-10.png (PNG copy)>] [47
 
 ]
-<crb-climate-change-connection/outputname-14.png, id=1765, 751.8489pt x 548.047
+<crb-climate-change-connection/outputname-14.png, id=1596, 751.8489pt x 548.047
 5pt>
 File: crb-climate-change-connection/outputname-14.png Graphic file (type png)
 <use crb-climate-change-connection/outputname-14.png>
 Package pdftex.def Info: crb-climate-change-connection/outputname-14.png  used 
+on input line 366.
+(pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
+
+Overfull \vbox (20.84894pt too high) detected at line 366
+ []
+
+[48
+
+ <./crb-climate-change-connection/outputname-14.png (PNG copy)>]
+<crb-climate-change-connection/outputname-13.png, id=1623, 751.8489pt x 548.047
+5pt>
+File: crb-climate-change-connection/outputname-13.png Graphic file (type png)
+<use crb-climate-change-connection/outputname-13.png>
+Package pdftex.def Info: crb-climate-change-connection/outputname-13.png  used 
+on input line 370.
+(pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
+
+Overfull \vbox (20.84894pt too high) detected at line 370
+ []
+
+[49
+
+ <./crb-climate-change-connection/outputname-13.png (PNG copy)>]
+<crb-climate-change-connection/outputname-15.png, id=1650, 751.8489pt x 548.047
+5pt>
+File: crb-climate-change-connection/outputname-15.png Graphic file (type png)
+<use crb-climate-change-connection/outputname-15.png>
+Package pdftex.def Info: crb-climate-change-connection/outputname-15.png  used 
 on input line 374.
 (pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
 
 Overfull \vbox (20.84894pt too high) detected at line 374
  []
 
-[54
+[50
 
- <./crb-climate-change-connection/outputname-14.png (PNG copy)>]
-<crb-climate-change-connection/outputname-13.png, id=1792, 751.8489pt x 548.047
-5pt>
-File: crb-climate-change-connection/outputname-13.png Graphic file (type png)
-<use crb-climate-change-connection/outputname-13.png>
-Package pdftex.def Info: crb-climate-change-connection/outputname-13.png  used 
-on input line 378.
-(pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
+ <./crb-climate-change-connection/outputname-15.png (PNG copy)>]
+<lfa.jpg, id=1676, 903.375pt x 810.02625pt>
+File: lfa.jpg Graphic file (type jpg)
+<use lfa.jpg>
+Package pdftex.def Info: lfa.jpg  used on input line 387.
+(pdftex.def)             Requested size: 174.28963pt x 156.28633pt.
+ [51
 
-Overfull \vbox (20.84894pt too high) detected at line 378
+ <./lfa.jpg>]
+<lfa2small.jpg, id=1706, 361.35pt x 271.0125pt>
+File: lfa2small.jpg Graphic file (type jpg)
+<use lfa2small.jpg>
+Package pdftex.def Info: lfa2small.jpg  used on input line 395.
+(pdftex.def)             Requested size: 171.21765pt x 128.41385pt.
+<lfa-pencil.jpg, id=1707, 401.5pt x 281.05pt>
+File: lfa-pencil.jpg Graphic file (type jpg)
+<use lfa-pencil.jpg>
+Package pdftex.def Info: lfa-pencil.jpg  used on input line 395.
+(pdftex.def)             Requested size: 171.21765pt x 119.8542pt.
+
+Overfull \vbox (54.50412pt too high) detected at line 395
+ []
+
+[52
+
+ <./lfa2small.jpg> <./lfa-pencil.jpg>]
+<lfa-stings.png, id=1734, 789.95125pt x 328.22626pt>
+File: lfa-stings.png Graphic file (type png)
+<use lfa-stings.png>
+Package pdftex.def Info: lfa-stings.png  used on input line 401.
+(pdftex.def)             Requested size: 342.43532pt x 142.28143pt.
+ [53
+
+ <./lfa-stings.png>]
+<lfa-eyes.png, id=1761, 758.835pt x 268.00125pt>
+File: lfa-eyes.png Graphic file (type png)
+<use lfa-eyes.png>
+Package pdftex.def Info: lfa-eyes.png  used on input line 407.
+(pdftex.def)             Requested size: 342.43532pt x 120.93886pt.
+ [54
+
+ <./lfa-eyes.png>]
+<lfa-hemiptera.png, id=1788, 390.45876pt x 422.57875pt>
+File: lfa-hemiptera.png Graphic file (type png)
+<use lfa-hemiptera.png>
+Package pdftex.def Info: lfa-hemiptera.png  used on input line 413.
+(pdftex.def)             Requested size: 204.58281pt x 221.40498pt.
+
+Overfull \vbox (0.64105pt too high) detected at line 413
  []
 
 [55
 
- <./crb-climate-change-connection/outputname-13.png (PNG copy)>]
-<crb-climate-change-connection/outputname-15.png, id=1820, 751.8489pt x 548.047
-5pt>
-File: crb-climate-change-connection/outputname-15.png Graphic file (type png)
-<use crb-climate-change-connection/outputname-15.png>
-Package pdftex.def Info: crb-climate-change-connection/outputname-15.png  used 
-on input line 382.
-(pdftex.def)             Requested size: 751.84708pt x 548.04616pt.
-
-Overfull \vbox (20.84894pt too high) detected at line 382
- []
-
-[56
-
- <./crb-climate-change-connection/outputname-15.png (PNG copy)>] [57
+ <./lfa-hemiptera.png>] [56
 
 ]
-<lfa.jpg, id=1874, 903.375pt x 810.02625pt>
-File: lfa.jpg Graphic file (type jpg)
-<use lfa.jpg>
-Package pdftex.def Info: lfa.jpg  used on input line 395.
-(pdftex.def)             Requested size: 174.28963pt x 156.28633pt.
-
-[58
-
- <./lfa.jpg>]
-<lfa2small.jpg, id=1901, 361.35pt x 271.0125pt>
-File: lfa2small.jpg Graphic file (type jpg)
-<use lfa2small.jpg>
-Package pdftex.def Info: lfa2small.jpg  used on input line 403.
-(pdftex.def)             Requested size: 171.21765pt x 128.41385pt.
-<lfa-pencil.jpg, id=1902, 401.5pt x 281.05pt>
-File: lfa-pencil.jpg Graphic file (type jpg)
-<use lfa-pencil.jpg>
-Package pdftex.def Info: lfa-pencil.jpg  used on input line 403.
-(pdftex.def)             Requested size: 171.21765pt x 119.8542pt.
-
-Overfull \vbox (54.50412pt too high) detected at line 403
- []
-
-[59
-
- <./lfa2small.jpg> <./lfa-pencil.jpg>]
-<lfa-stings.png, id=1930, 789.95125pt x 328.22626pt>
-File: lfa-stings.png Graphic file (type png)
-<use lfa-stings.png>
-Package pdftex.def Info: lfa-stings.png  used on input line 409.
-(pdftex.def)             Requested size: 342.43532pt x 142.28143pt.
- [60
-
- <./lfa-stings.png>]
-<lfa-eyes.png, id=1957, 758.835pt x 268.00125pt>
-File: lfa-eyes.png Graphic file (type png)
-<use lfa-eyes.png>
-Package pdftex.def Info: lfa-eyes.png  used on input line 415.
-(pdftex.def)             Requested size: 342.43532pt x 120.93886pt.
- [61
-
- <./lfa-eyes.png>]
-<lfa-hemiptera.png, id=1985, 390.45876pt x 422.57875pt>
-File: lfa-hemiptera.png Graphic file (type png)
-<use lfa-hemiptera.png>
-Package pdftex.def Info: lfa-hemiptera.png  used on input line 421.
-(pdftex.def)             Requested size: 204.58281pt x 221.40498pt.
-
-Overfull \vbox (0.64105pt too high) detected at line 421
- []
-
-[62
-
- <./lfa-hemiptera.png>] [63
-
-]
-<lfa-dump.png, id=2039, 722.3715pt x 541.6965pt>
+<lfa-dump.png, id=1843, 722.3715pt x 541.6965pt>
 File: lfa-dump.png Graphic file (type png)
 <use lfa-dump.png>
-Package pdftex.def Info: lfa-dump.png  used on input line 438.
+Package pdftex.def Info: lfa-dump.png  used on input line 430.
 (pdftex.def)             Requested size: 260.51648pt x 195.35594pt.
 
-Overfull \vbox (0.59201pt too high) detected at line 438
+Overfull \vbox (0.59201pt too high) detected at line 430
  []
 
-[64
+[57
 
- <./lfa-dump.png>] [65
+ <./lfa-dump.png>] [58
 
-] [66
-
-] [67
+] [59
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 479--479
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
 \T1/cmss/bx/n/10.95 to-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--479
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
 \T1/cmss/bx/n/10.95 tree
  []
 
 
-Overfull \hbox (2.8265pt too wide) in paragraph at lines 479--479
+Overfull \hbox (2.8265pt too wide) in paragraph at lines 471--471
 \T1/cmss/bx/n/10.95 count| 
  []
 
-[68
+[60
 
-] [69
+] [61
 
 ]
-<asian-cycad-scale/output-53.png, id=2199, 364.2408pt x 273.1806pt>
+<asian-cycad-scale/output-53.png, id=1976, 364.2408pt x 273.1806pt>
 File: asian-cycad-scale/output-53.png Graphic file (type png)
 <use asian-cycad-scale/output-53.png>
-Package pdftex.def Info: asian-cycad-scale/output-53.png  used on input line 49
-1.
+Package pdftex.def Info: asian-cycad-scale/output-53.png  used on input line 48
+3.
 (pdftex.def)             Requested size: 364.23991pt x 273.17992pt.
- [70
+ [62
 
  <./asian-cycad-scale/output-53.png (PNG copy)>]
 
 Package biblatex Warning: No driver for entry type 'video'.
-(biblatex)                Using fallback driver on input line 496.
+(biblatex)                Using fallback driver on input line 488.
 
-[71
+[63
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+[64
+
+]
 \tf@nav=\write7
 \openout7 = `SWCD-2021-07-30.nav'.
 
@@ -1900,12 +1889,11 @@ Package biblatex Warning: No driver for entry type 'video'.
 \tf@snm=\write9
 \openout9 = `SWCD-2021-07-30.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 498.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 498.
-
-(./SWCD-2021-07-30.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 498.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 498.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 503.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 503.
+ (./SWCD-2021-07-30.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 503.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 503.
 Package rerunfilecheck Info: File `SWCD-2021-07-30.out' has not changed.
 (rerunfilecheck)             Checksum: FA405FC8766408A096155866BFD3FCBB;350.
 Package logreq Info: Writing requests to 'SWCD-2021-07-30.run.xml'.
@@ -1913,13 +1901,13 @@ Package logreq Info: Writing requests to 'SWCD-2021-07-30.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27758 strings out of 483183
- 530705 string characters out of 5966292
- 1150965 words of memory out of 5000000
- 41997 multiletter control sequences out of 15000+600000
- 553550 words of font info for 71 fonts, out of 8000000 for 9000
+ 27697 strings out of 483183
+ 529458 string characters out of 5966292
+ 1151030 words of memory out of 5000000
+ 41951 multiletter control sequences out of 15000+600000
+ 553863 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,16n,96p,782b,1581s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,16n,96p,782b,1607s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0900.60
 0pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1095.
 600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi144
@@ -1930,13 +1918,14 @@ css1000.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
 /ecsx1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/
 ec/ectt1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappe
 n/ec/ecss0600.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecss0800.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
-appen/ec/ecss1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecss1440.600pk>
-Output written on SWCD-2021-07-30.pdf (71 pages, 67374401 bytes).
+pen/ec/ectt0800.450pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecss0800.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecss1095.600pk> </home/aubrey/.texlive2019/texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecss1440.600pk>
+Output written on SWCD-2021-07-30.pdf (64 pages, 67371665 bytes).
 PDF statistics:
- 2775 PDF objects out of 2984 (max. 8388607)
- 2135 compressed objects within 22 object streams
- 152 named destinations out of 1000 (max. 500000)
- 390 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2616 PDF objects out of 2984 (max. 8388607)
+ 1951 compressed objects within 20 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 384 words of extra memory for PDF output out of 10000 (max. 10000000)
 
